@@ -4,7 +4,7 @@ This project predicts star ratings for Amazon movie reviews using a Random Fores
 
 ## Files
 
-- `midterm.py`: Main script for training the model and making predictions.
+- `midterm.ipynb`: Main script for training the model and making predictions.
 
 ## Usage
 
