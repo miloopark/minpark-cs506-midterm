@@ -5,6 +5,7 @@ This project predicts star ratings for Amazon movie reviews using a Random Fores
 ## Files
 
 - `midterm.ipynb`: Main script for training the model and making predictions.
+- 'midterm.pdf': Deep analysis that describes the algorithm and its implementation to predicting Amazon Movie Reviews.
 
 ## Usage
 
