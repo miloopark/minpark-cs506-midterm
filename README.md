@@ -8,5 +8,5 @@ This project predicts star ratings for Amazon movie reviews using a Random Fores
 
 ## Usage
 
-1. Download `train.csv` and `test.csv` and place in the `data/` directory.
+1. Download `train.csv` and `test.csv` from https://www.kaggle.com/competitions/cs-506-midterm-fall-2024/data and place in the `data/` directory.
 2. Run the script!
